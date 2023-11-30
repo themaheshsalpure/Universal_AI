@@ -1,9 +1,8 @@
 from django.urls import path
-# from . import views
-import views
+from . import views
 
 urlpatterns = [
     path('', views.home, name='home'),
-    path('getResponse/<str:user_message>', views.getResponse, name='getResponse'),
-    path('makeAppointment/<str:user_message>', views.makeAppointment, name='makeAppointment'),
+    path('get-response/<str:user_message>/', views.get_response, name='get_response'),
+    path('make-appointment/<str:user_message>/', views.make_appointment, name='make_appointment'),
 ]
