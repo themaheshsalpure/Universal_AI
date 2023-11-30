@@ -9,7 +9,6 @@ from Brain import NeuralNet
 from huggingface_hub import login
 login(token="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")
 
-import torch
 import argparse
 # import parser
 parser = argparse.ArgumentParser()
