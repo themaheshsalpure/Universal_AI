@@ -6,7 +6,7 @@ import json
 import torch
 import random
 
-from NeuralNetwork import bag_of_words,tokenize
+# from NeuralNetwork import bag_of_words,tokenize
 import random
 import json
 from Brain import NeuralNet
