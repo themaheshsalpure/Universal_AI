@@ -5,7 +5,6 @@ Universal-AI- (Rocket- 3B) is a prototype mobile application aimed at enhancing 
 ### Introduction
 ### Features
 ### Technology Stack
-### Installation
 ### Usage
 ### Contributing
 
@@ -29,9 +28,6 @@ Langchain: Blockchain technology for secure data management.
 Android Studio: Development environment for creating the Android application.
 Django: Web framework for building the backend infrastructure.
 NFC Tags: Used for seamless interaction with physical objects or devices.
-Installation
-Clone the repository from GitHub: git clone https://github.com/your-username/Universal-AI-Rocket-3B.git
-Navigate to the project directory: cd Universal-AI-Rocket-3B
 
 ### Install dependencies:
 For Android Studio: Follow the instructions in the Android Studio documentation to set up the development environment.
